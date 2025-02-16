@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZEN\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 Directum\\\u0417\u0430\u0434\u0430\u043D\u0438\u04353\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06F91FAD-FF6F-424D-A6E7-FADC58DEEAA9}|MeetingApp\\MeetingApp.csproj|c:\\users\\zen\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 directum\\\u0437\u0430\u0434\u0430\u043D\u0438\u04353\\meetingapp\\consoleappmodules\\consoleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F91FAD-FF6F-424D-A6E7-FADC58DEEAA9}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\consoleappmodules\\consoleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApp.cs",
+              "DocumentMoniker": "C:\\Users\\ZEN\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 Directum\\\u0417\u0430\u0434\u0430\u043D\u0438\u04353\\MeetingApp\\ConsoleAppModules\\ConsoleApp.cs",
+              "RelativeDocumentMoniker": "MeetingApp\\ConsoleAppModules\\ConsoleApp.cs",
+              "ToolTip": "C:\\Users\\ZEN\\Desktop\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 Directum\\\u0417\u0430\u0434\u0430\u043D\u0438\u04353\\MeetingApp\\ConsoleAppModules\\ConsoleApp.cs",
+              "RelativeToolTip": "MeetingApp\\ConsoleAppModules\\ConsoleApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:31:28.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

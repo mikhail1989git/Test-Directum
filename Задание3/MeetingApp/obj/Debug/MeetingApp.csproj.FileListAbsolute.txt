@@ -1,0 +1,21 @@
+C:\Users\ZEN\source\repos\MeetingApp\MeetingApp\bin\Debug\MeetingApp.exe.config
+C:\Users\ZEN\source\repos\MeetingApp\MeetingApp\bin\Debug\MeetingApp.exe
+C:\Users\ZEN\source\repos\MeetingApp\MeetingApp\bin\Debug\MeetingApp.pdb
+C:\Users\ZEN\source\repos\MeetingApp\MeetingApp\obj\Debug\MeetingApp.csproj.AssemblyReference.cache
+C:\Users\ZEN\source\repos\MeetingApp\MeetingApp\obj\Debug\MeetingApp.csproj.CoreCompileInputs.cache
+C:\Users\ZEN\source\repos\MeetingApp\MeetingApp\obj\Debug\MeetingApp.exe
+C:\Users\ZEN\source\repos\MeetingApp\MeetingApp\obj\Debug\MeetingApp.pdb
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\MeetingApp\bin\Debug\MeetingApp.exe.config
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\MeetingApp\bin\Debug\MeetingApp.exe
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\MeetingApp\bin\Debug\MeetingApp.pdb
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\MeetingApp\obj\Debug\MeetingApp.csproj.AssemblyReference.cache
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\MeetingApp\obj\Debug\MeetingApp.csproj.CoreCompileInputs.cache
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\MeetingApp\obj\Debug\MeetingApp.exe
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\MeetingApp\obj\Debug\MeetingApp.pdb
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\bin\Debug\MeetingApp.exe.config
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\bin\Debug\MeetingApp.exe
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\bin\Debug\MeetingApp.pdb
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\obj\Debug\MeetingApp.csproj.AssemblyReference.cache
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\obj\Debug\MeetingApp.csproj.CoreCompileInputs.cache
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\obj\Debug\MeetingApp.exe
+C:\Users\ZEN\Desktop\Тестовое задание Directum\Задание3\MeetingApp\obj\Debug\MeetingApp.pdb
